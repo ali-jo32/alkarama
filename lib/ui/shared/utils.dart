@@ -1,10 +1,10 @@
 import 'dart:math';
 
-import 'package:e_commerce/core/data/repository/Shared_Preferences_repository.dart';
+import 'package:alkarama_project/core/data/repository/Shared_Preferences_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:e_commerce/core/data/repository/Shared_Preferences_repository.dart';
-import 'package:e_commerce/core/services/connectivity_service.dart';
+import 'package:alkarama_project/core/data/repository/Shared_Preferences_repository.dart';
+import 'package:alkarama_project/core/services/connectivity_service.dart';
 
 bool isEmailValid(String email) {
   return RegExp(

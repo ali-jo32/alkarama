@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:e_commerce/core/services/connectivity_service.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/core/services/connectivity_service.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 
 class MyAppController extends GetxController {
   

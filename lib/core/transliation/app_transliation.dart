@@ -1,7 +1,7 @@
-import 'package:e_commerce/core/transliation/languages/ar_languages.dart';
-import 'package:e_commerce/core/transliation/languages/en_languages.dart';
-import 'package:e_commerce/core/transliation/languages/fr_language.dart';
-import 'package:e_commerce/core/transliation/languages/tr_language.dart';
+import 'package:alkarama_project/core/transliation/languages/ar_languages.dart';
+import 'package:alkarama_project/core/transliation/languages/en_languages.dart';
+import 'package:alkarama_project/core/transliation/languages/fr_language.dart';
+import 'package:alkarama_project/core/transliation/languages/tr_language.dart';
 import 'package:get/get.dart';
 
 class AppTranslation extends Translations {

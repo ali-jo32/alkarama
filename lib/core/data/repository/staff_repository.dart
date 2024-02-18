@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_commerce/core/data/models/staff_model.dart';
+import 'package:alkarama_project/core/data/models/staff_model.dart';
 
 import '../../enums/request_type.dart';
 import '../../utils/network_util.dart';

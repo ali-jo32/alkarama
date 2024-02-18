@@ -1,6 +1,6 @@
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
 
 class CustomTextfield extends StatelessWidget {
   final IconData? preIcon;

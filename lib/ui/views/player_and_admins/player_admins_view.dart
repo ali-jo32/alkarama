@@ -1,9 +1,9 @@
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/custom_widgets/custom_appbar.dart';
-import 'package:e_commerce/ui/shared/custom_widgets/custom_kj.dart';
-import 'package:e_commerce/ui/shared/custom_widgets/custom_single_child_scroll_view.dart';
-import 'package:e_commerce/ui/shared/shared_widgets/custom_text.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/custom_widgets/custom_appbar.dart';
+import 'package:alkarama_project/ui/shared/custom_widgets/custom_kj.dart';
+import 'package:alkarama_project/ui/shared/custom_widgets/custom_single_child_scroll_view.dart';
+import 'package:alkarama_project/ui/shared/shared_widgets/custom_text.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 import 'package:flutter/material.dart';
 
 class PlayerAdminsView extends StatelessWidget {

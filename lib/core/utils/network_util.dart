@@ -4,9 +4,9 @@ import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:e_commerce/core/enums/request_type.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/login_view/login_view.dart';
+import 'package:alkarama_project/core/enums/request_type.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/views/login_view/login_view.dart';
 
 class NetworkUtil {
   static String baseUrl = 'in.cliprz.org';

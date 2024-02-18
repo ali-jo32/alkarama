@@ -1,15 +1,15 @@
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/main_view/favorite_view/favorite_view.dart';
-import 'package:e_commerce/ui/views/main_view/home_view/home_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_menu/side_menu_controller.dart';
-// import 'package:e_commerce/ui/views/main_view/home_view/home_view.dart';
-import 'package:e_commerce/ui/views/main_view/notification_view/notification_view.dart';
-import 'package:e_commerce/ui/views/main_view/settings_view/settings_view.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/views/main_view/favorite_view/favorite_view.dart';
+import 'package:alkarama_project/ui/views/main_view/home_view/home_view.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/side_menu/side_menu_controller.dart';
+// import 'package:alkarama_project/ui/views/main_view/home_view/home_view.dart';
+import 'package:alkarama_project/ui/views/main_view/notification_view/notification_view.dart';
+import 'package:alkarama_project/ui/views/main_view/settings_view/settings_view.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce/core/data/repository/Shared_Preferences_repository.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/views/landing_view/landing_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_item/side_item.dart';
+import 'package:alkarama_project/core/data/repository/Shared_Preferences_repository.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/views/landing_view/landing_view.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/side_item/side_item.dart';
 import 'package:get/get.dart';
 
 class SideMenu extends StatelessWidget {
