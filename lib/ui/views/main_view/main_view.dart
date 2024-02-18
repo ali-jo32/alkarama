@@ -31,7 +31,7 @@ class _MainViewState extends State<MainView> {
     return SafeArea(
       child: Scaffold(
         key: controller.scafolldKey,
-        drawer: SideMenu(),
+        // drawer: SideMenu(),
         bottomNavigationBar: CustomBottmNavigation(
           onTap: (p0, p1) {
             controller.selec();

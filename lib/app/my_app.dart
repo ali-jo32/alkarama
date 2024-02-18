@@ -6,14 +6,13 @@ import 'package:alkarama_project/ui/shared/utils.dart';
 import 'package:alkarama_project/ui/views/alkarama_project/about_clup/about_clup_view.dart';
 import 'package:alkarama_project/ui/views/alkarama_project/meusiam_clup/meusiam_clup_view.dart';
 import 'package:alkarama_project/ui/views/player_and_admins/player_admins_view.dart';
-import 'package:alkarama_project/ui/views/post/post_view/post_view.dart';
+
 // import 'package:alkarama_project/ui/views/post/post_view/post_view.dart';
-import 'package:alkarama_project/ui/views/intro_view/intro_view.dart';
+
 import 'package:alkarama_project/ui/views/result/result_view.dart';
 // import 'package:alkarama_project/ui/views/login_view/login_view.dart';
-import 'package:alkarama_project/ui/views/splash_view/splash_view.dart';
+
 // import 'package:alkarama_project/ui/views/test_Challange.dart';
-import 'package:alkarama_project/ui/views/testapiget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
