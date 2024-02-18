@@ -1,9 +1,9 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_commerce/core/data/models/common_response.dart';
-import 'package:e_commerce/core/data/models/token_info.dart';
-import 'package:e_commerce/core/data/network/network_config.dart';
-import 'package:e_commerce/core/enums/request_type.dart';
-import 'package:e_commerce/core/utils/network_util.dart';
+import 'package:alkarama_project/core/data/models/common_response.dart';
+import 'package:alkarama_project/core/data/models/token_info.dart';
+import 'package:alkarama_project/core/data/network/network_config.dart';
+import 'package:alkarama_project/core/enums/request_type.dart';
+import 'package:alkarama_project/core/utils/network_util.dart';
 
 class AuthRepository {
   Future<Either<String, TokenInfo>> login({

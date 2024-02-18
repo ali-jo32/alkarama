@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
 
 enum TextStyleType {
   TITLE,

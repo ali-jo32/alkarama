@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:get/get.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/shared_widgets/custom_appbar1.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/shared_widgets/custom_appbar1.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 
 import 'result_view_controller.dart';
 

@@ -1,5 +1,5 @@
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 import 'package:flutter/material.dart';
 
 class NotificationView extends StatelessWidget {

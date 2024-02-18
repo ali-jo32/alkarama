@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widget/nav_item.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widget/nav_item.dart';
 
 enum BottomNavigationEnum {
   HOME,

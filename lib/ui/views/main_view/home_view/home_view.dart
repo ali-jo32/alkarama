@@ -1,11 +1,11 @@
 // import 'dart:io';
 
-// import 'package:e_commerce/ui/shared/colors.dart';
-// import 'package:e_commerce/ui/shared/utils.dart';
-// import 'package:e_commerce/ui/views/main_view/home_view/home_controller.dart';
+// import 'package:alkarama_project/ui/shared/colors.dart';
+// import 'package:alkarama_project/ui/shared/utils.dart';
+// import 'package:alkarama_project/ui/views/main_view/home_view/home_controller.dart';
 // import 'package:flutter/material.dart';
 // import 'package:get/get.dart';
-// // import 'package:e_commerce/ui/shared/colors.dart';
+// // import 'package:alkarama_project/ui/shared/colors.dart';
 // import 'package:image_picker/image_picker.dart';
 
 // class HomeView extends StatefulWidget {

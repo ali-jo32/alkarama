@@ -1,4 +1,4 @@
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_navigation_bar.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';

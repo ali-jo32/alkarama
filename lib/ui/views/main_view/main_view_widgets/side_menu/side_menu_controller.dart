@@ -1,8 +1,8 @@
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/landing_view/landing_view.dart';
-import 'package:e_commerce/ui/views/main_view/favorite_view/favorite_view.dart';
-import 'package:e_commerce/ui/views/main_view/notification_view/notification_view.dart';
-import 'package:e_commerce/ui/views/main_view/settings_view/settings_view.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/views/landing_view/landing_view.dart';
+import 'package:alkarama_project/ui/views/main_view/favorite_view/favorite_view.dart';
+import 'package:alkarama_project/ui/views/main_view/notification_view/notification_view.dart';
+import 'package:alkarama_project/ui/views/main_view/settings_view/settings_view.dart';
 import 'package:get/get.dart';
 
 class SideMenuController extends GetxController {

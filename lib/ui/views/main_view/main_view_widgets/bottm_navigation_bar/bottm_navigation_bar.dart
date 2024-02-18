@@ -1,7 +1,7 @@
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_controller.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/nav_item/nav_item.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/nav_item/nav_item.dart';
 import 'package:get/get.dart';
 
 enum BottomNavigationEnum {

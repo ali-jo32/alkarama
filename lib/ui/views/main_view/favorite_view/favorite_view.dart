@@ -1,6 +1,6 @@
-import 'package:e_commerce/core/transliation/app_transliation.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/core/transliation/app_transliation.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 import 'package:flutter/material.dart';
 
 class FavoriteView extends StatelessWidget {

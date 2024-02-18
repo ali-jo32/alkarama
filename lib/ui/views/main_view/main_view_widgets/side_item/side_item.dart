@@ -1,5 +1,5 @@
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_item/side_item_controller.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/side_item/side_item_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

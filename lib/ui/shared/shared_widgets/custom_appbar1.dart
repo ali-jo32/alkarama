@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 
 class CustomAppBar extends StatelessWidget {
   final bool svgNeed;

@@ -1,17 +1,17 @@
 // import 'dart:ui';
 
 import 'package:bot_toast/bot_toast.dart';
-import 'package:e_commerce/core/data/models/token_info.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_controller.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_navigation_bar.dart';
+import 'package:alkarama_project/core/data/models/token_info.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_controller.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/bottm_navigation_bar/bottm_navigation_bar.dart';
 import 'package:flutter/material.dart';
-// import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/views/main_view/favorite_view/favorite_view.dart';
-import 'package:e_commerce/ui/views/main_view/home_view/home_view.dart';
-import 'package:e_commerce/ui/views/main_view/notification_view/notification_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_menu/side_menu.dart';
-// import 'package:e_commerce/ui/views/main_view/notification_view/notification_view.dart';
-import 'package:e_commerce/ui/views/main_view/settings_view/settings_view.dart';
+// import 'package:alkarama_project/ui/shared/colors.dart';
+import 'package:alkarama_project/ui/views/main_view/favorite_view/favorite_view.dart';
+import 'package:alkarama_project/ui/views/main_view/home_view/home_view.dart';
+import 'package:alkarama_project/ui/views/main_view/notification_view/notification_view.dart';
+import 'package:alkarama_project/ui/views/main_view/main_view_widgets/side_menu/side_menu.dart';
+// import 'package:alkarama_project/ui/views/main_view/notification_view/notification_view.dart';
+import 'package:alkarama_project/ui/views/main_view/settings_view/settings_view.dart';
 import 'package:get/get.dart';
 
 class MainView extends StatefulWidget {

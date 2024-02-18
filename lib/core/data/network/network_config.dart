@@ -1,8 +1,8 @@
 // import 'dart:html';
 
-import 'package:e_commerce/core/data/repository/Shared_Preferences_repository.dart';
-import 'package:e_commerce/core/enums/request_type.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:alkarama_project/core/data/repository/Shared_Preferences_repository.dart';
+import 'package:alkarama_project/core/enums/request_type.dart';
+import 'package:alkarama_project/ui/shared/utils.dart';
 
 class NetworkConfig {
   static Map<String, String> getHeaders(
